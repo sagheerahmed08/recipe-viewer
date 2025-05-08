@@ -1,5 +1,6 @@
 {
   "name": "recipe-viewer",
+  "homepage":"https://sagheerahmed08.github.io/recipe-viewer/",
   "version": "0.1.0",
   "private": true,
   "scripts": {
